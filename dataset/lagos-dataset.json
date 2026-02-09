@@ -1,0 +1,102 @@
+[
+  {
+    "id": "transport_overview_001",
+    "title": "Transportation Systems in Lagos",
+    "category": "transport",
+    "content": "Lagos State operates a multi-modal transportation system that includes road, rail and water transport. The state government promotes these transport options to reduce congestion and improve mobility across major commercial and residential areas.",
+    "keywords": ["transport", "mobility", "Lagos transport system"]
+  },
+  {
+    "id": "transport_brt_001",
+    "title": "Lagos Bus Rapid Transit System",
+    "category": "transport",
+    "content": "The Lagos Bus Rapid Transit system is a high-capacity bus transport network managed by the Lagos Metropolitan Area Transport Authority. The system operates dedicated bus lanes and connects major corridors including CMS to Mile 12 and Oshodi to Abule Egba. The BRT system is designed to provide affordable and efficient public transportation.",
+    "keywords": ["BRT", "bus", "LAMATA", "public transport"]
+  },
+  {
+    "id": "transport_rail_blue_line_001",
+    "title": "Lagos Blue Line Rail System",
+    "category": "transport",
+    "content": "The Lagos Blue Line Rail is an electric rail transit service that connects Marina to Mile 2. The rail system is part of the Lagos Rail Mass Transit project developed to reduce road congestion and provide faster commuting options.",
+    "keywords": ["rail", "train", "blue line", "mass transit"]
+  },
+  {
+    "id": "transport_ferry_001",
+    "title": "Lagos Ferry Transportation",
+    "category": "transport",
+    "content": "Water transportation in Lagos is provided through ferry services operated by Lagos Ferry Services and private operators. Major ferry routes connect Ikorodu, Falomo, CMS and Badagry. Ferry transport provides an alternative travel option that helps reduce road congestion.",
+    "keywords": ["ferry", "water transport", "LAGFERRY"]
+  },
+  {
+    "id": "transport_informal_001",
+    "title": "Informal Transportation in Lagos",
+    "category": "transport",
+    "content": "Informal transportation plays a major role in Lagos mobility. Common informal transport options include danfo buses, okadas which are commercial motorcycles, and keke napep which are tricycles. These services provide flexible transport options across many neighborhoods.",
+    "keywords": ["danfo", "okada", "keke", "informal transport"]
+  },
+  {
+    "id": "tourism_beaches_001",
+    "title": "Popular Beaches in Lagos as Tourist Attractions",
+    "category": "tourism",
+    "content": "Lagos is widely recognized for its coastal tourism, with several beaches serving as major recreational and sightseeing destinations. Notable beaches include Tarkwa Bay, Elegushi Beach, and Landmark Beach. Tarkwa Bay is accessible by boat and is known for its calmer waters, making it suitable for relaxation and water-based leisure activities. Elegushi Beach is privately managed and offers organized entertainment, dining services, and event spaces. Landmark Beach is located along the Atlantic Ocean coastline and is known for its well-maintained environment, beachfront recreation facilities, and visitor-friendly infrastructure. These beaches collectively contribute to Lagos’ reputation as a coastal tourism hub, attracting both residents and international visitors seeking leisure, recreation, and scenic waterfront experiences.",
+    "keywords": [
+      "Lagos beaches",
+      "Tarkwa Bay",
+      "Elegushi Beach",
+      "Landmark Beach",
+      "coastal tourism"
+    ]
+  },
+  {
+    "id": "tourism_cultural_sites_002",
+    "title": "Historic and Cultural Tourist Attractions in Lagos",
+    "category": "tourism",
+    "content": "Lagos hosts several historic and cultural landmarks that preserve and showcase the artistic and historical heritage of the region. Freedom Park is a historical site that commemorates Nigeria’s colonial history and now serves as a cultural and recreational venue. Nike Art Gallery is a prominent art center known for exhibiting Nigerian visual arts, textiles, and handcrafted works created by local artists. The National Museum Lagos houses historical artifacts, cultural relics, and exhibits that document Nigeria’s heritage and national development. These locations provide educational and cultural experiences for visitors, making them significant tourism destinations. They contribute to preserving local history, promoting indigenous art, and encouraging cultural tourism within Lagos State.",
+    "keywords": [
+      "Freedom Park Lagos",
+      "Nike Art Gallery",
+      "National Museum Lagos",
+      "cultural tourism",
+      "historic attractions"
+    ]
+  },
+  {
+    "id": "tourism_nature_attractions_003",
+    "title": "Lekki Conservation Centre as a Nature and Wildlife Attraction",
+    "category": "tourism",
+    "content": "The Lekki Conservation Centre is a major eco-tourism destination in Lagos that focuses on environmental conservation and nature-based recreation. The facility is known for its canopy walkway, which allows visitors to walk above forest vegetation while observing natural surroundings. The centre also provides opportunities for wildlife viewing, allowing visitors to observe animals and plant species in a protected environment. The conservation area promotes environmental awareness by showcasing biodiversity and encouraging sustainable tourism practices. The Lekki Conservation Centre serves both educational and recreational purposes, attracting tourists, researchers, and residents interested in ecological preservation and outdoor experiences within Lagos State.",
+    "keywords": [
+      "Lekki Conservation Centre",
+      "canopy walkway",
+      "wildlife viewing",
+      "eco tourism Lagos",
+      "nature attraction"
+    ]
+  },
+  {
+    "id": "tourism_markets_004",
+    "title": "Shopping Tourism Through Lagos Markets",
+    "category": "tourism",
+    "content": "Shopping tourism forms an important part of Lagos’ visitor experience, with several markets attracting tourists seeking local goods and cultural products. Balogun Market is one of the largest commercial markets in Lagos, offering a wide range of products including clothing, fabrics, accessories, and household items. Lekki Arts and Crafts Market specializes in handcrafted items such as sculptures, paintings, jewelry, and traditional souvenirs that reflect Nigerian cultural heritage. These markets provide visitors with opportunities to engage directly with local traders and artisans. They also support cultural exchange and promote locally produced goods, making them key tourism and economic centers within Lagos State.",
+    "keywords": [
+      "Balogun Market",
+      "Lekki Arts and Crafts Market",
+      "shopping in Lagos",
+      "local crafts",
+      "tourist markets"
+    ]
+  },
+  {
+    "id": "tourism_entertainment_005",
+    "title": "Entertainment, Events, and Nightlife Tourism in Lagos",
+    "category": "tourism",
+    "content": "Lagos is recognized for its vibrant entertainment industry, which plays a major role in attracting tourists. The city hosts numerous entertainment events, including concerts, festivals, and social gatherings that draw large audiences. Lagos also features a wide range of nightlife venues such as clubs, lounges, and performance spaces that operate throughout the city. These entertainment offerings provide diverse leisure opportunities for visitors and residents. The regular hosting of large-scale events contributes to the city’s reputation as an entertainment hub in Nigeria and West Africa. The entertainment sector supports tourism by providing cultural experiences, music performances, and social engagement opportunities for visitors exploring Lagos.",
+    "keywords": [
+      "Lagos nightlife",
+      "entertainment events Lagos",
+      "concerts in Lagos",
+      "nightlife venues",
+      "tourism entertainment"
+    ]
+  }
+]
